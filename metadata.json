@@ -1,0 +1,6 @@
+{
+  "name": "UNO Crisis Contract",
+  "description": "UNO with debuffs, buffs, and challenge mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
